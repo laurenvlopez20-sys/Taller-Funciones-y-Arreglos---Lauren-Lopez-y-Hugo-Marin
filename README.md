@@ -8,7 +8,7 @@ Repositorio correspondiente al taller práctico de JavaScript sobre funciones tr
 
 ## 📂 Estructura del Repositorio
 * `Funciones/`: Contiene los ejercicios resueltos utilizando funciones tradicionales.
-* `Arrow-functions/`: Contiene los ejercicios resueltos utilizando funciones flecha[cite: 3].
-* `Arreglos/`: Contiene los ejercicios de manipulación básica de arreglos[cite: 3].
+* `Arrow-functions/`: Contiene los ejercicios resueltos utilizando funciones flecha.
+* `Arreglos/`: Contiene los ejercicios de manipulación básica de arreglos.
 * `Metodos-array/`: Contiene los ejercicios aplicando los métodos avanzados `map`, `filter` y `reduce`.
 
